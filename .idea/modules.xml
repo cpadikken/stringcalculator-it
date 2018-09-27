@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/stringcalculator/stringcalculator.iml" filepath="$PROJECT_DIR$/stringcalculator/stringcalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringcalculator-it.iml" filepath="$PROJECT_DIR$/stringcalculator-it.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringcalculator-webservice/stringcalculator-webservice.iml" filepath="$PROJECT_DIR$/stringcalculator-webservice/stringcalculator-webservice.iml" />
+    </modules>
+  </component>
+</project>
